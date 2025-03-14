@@ -1,0 +1,100 @@
+Who invented Java Programming?
+(a) Guido van Rossum
+(b) James Gosling
+(c) Dennis Ritchie
+(d) Bjarne Stroustrup
+Which of these cannot be used for a variable name in Java?
+(a) identifier & keyword
+(b) identifier
+(c) keyword
+(d) none of the mentioned
+In what year did Apple start selling the first iPhones?
+(a) 2000
+(b) 2004
+(c) 2007
+(d) 2001
+_______ converts and executes one statement at a time
+(a) Compiler
+(b) Interpreter
+(c) Converter
+(d) Instructions
+Windows 95, Windows 98, and Windows NT are known as what?
+(a) Processor
+(b) Domain names
+(c) Modems
+(d) Operating Systems
+The first computer was programmed using .......
+(a) Assembly language
+(b) Machine language
+(c) Spaghetti code
+(d) Source code
+Which of the following is a popular programming language for developing multimedia webpages.
+(a) COBOL
+(b) Java
+(c) BASIC
+(d) Assembler
+Ctrl, Shift and Alt are called .......... keys.
+(a) modifier
+(b) function
+(c) alphanumeric
+(d) adjustment
+Junk e-mail is also called ______
+(a) Spam
+(b) Spoof
+(c) Sniffer script
+(d) Spool
+Where is RAM located?
+(a) Mother Board
+(b) Expansion Board
+(c) External Drive
+(d) None Of The Above
+The First Mechanical Computer Designed by Charles Babbage was called
+(a) Super Computer
+(b) Abacus
+(c) Calculator
+(d) Analytical Engine
+Which statement is true about Java?
+(a) Java is a sequence-dependent programming language
+(b) Java is a code dependent programming language
+(c) Java is a platform-dependent programming language
+(d) Java is a platform-independent programming language
+What is the extension of java code files?
+(a) .js
+(b) .txt
+(c) .class
+(d) .java
+Which of the following is the smallest unit of data in a computer?
+(a) Bit
+(b) KB
+(c) Nibble
+(d) Byte
+What is FMD?
+(a) Fast-Ethernet Measuring Device
+(b) Flashing Media Diode
+(c) Fluorescent Multi-Layer Disc
+(d) Flash Media Driver
+What is a URL?
+(a) A computer software program
+(b) A type of UFO
+(c) The address of a document or "page" on the World Wide Web
+(d) An acronym for Uniform Resources Learning
+In what year was the "@" chosen for its use in e-mail addresses?
+(a) 1976
+(b) 1972
+(c) 1980
+(d) 1984
+Where is the headquarters of Intel located?
+(a) Redmond, Washington
+(b) Tucson, Arizona
+(c) Santa Clara, California
+(d) Richmond, Virginia
+What does EPROM stand for?
+(a) Electric Programmable Read Only Memory
+(b) Erasable Programmable Read Only Memory
+(c) Evaluable Philotic Random Optic Memory
+(d) Every Person Requires One Mind
+Which of the following is not a computer language?
+(a) Windows 98
+(b) PASCAL
+(c) FORTRAN
+(d) C++
